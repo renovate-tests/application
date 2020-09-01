@@ -132,7 +132,7 @@
     "electron-settings": "^4.0.0",
     "electron-updater": "4.3.4",
     "fs-jetpack": "^3.0.0",
-    "history": "^4.7.2",
+    "history": "^5.0.0",
     "minimist": "1.2.5",
     "react": "^16.4",
     "react-beautiful-dnd": "13.0.0",
